@@ -16,7 +16,16 @@ To get started writing your own plugin:
 3. Explore the `Examples` folder to see ready-to-use plugins.
 
 ## 📂 Structure
-```text|-- Home.md                    # Introduction to plugins|-- Installation.md           # How to install and prepare ComicRack CE|-- DevelopmentEnvironment.md # Setting up Visual Studio or other editors|-- Interfaces/               # All plugin-accessible interfaces|-- Hooks/                    # Hooks and the variables they inject|-- Classes/                  # Core data structures and their members|-- Examples/                 # Plugin samples|-- Glossary.md               # Terms and concepts```
+
+- `Home.md` — Introduction to plugins
+- `Installation.md` — How to install and prepare ComicRack CE
+- `DevelopmentEnvironment.md` — Setting up Visual Studio or other editors
+- `Interfaces/` — All plugin-accessible interfaces
+- `Hooks/` — Hooks and the variables they inject
+- `Classes/` — Core data structures and their members
+- `Examples/` — Plugin samples
+- `Glossary.md` — Terms and concepts
+                   # Hooks and the variables they inject|-- Classes/                  # Core data structures and their members|-- Examples/                 # Plugin samples|-- Glossary.md               # Terms and concepts```
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit improvements, corrections, or new plugin examples via pull requests.
 
