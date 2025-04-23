@@ -11,25 +11,6 @@ This project provides complete technical references and guides for creating, deb
 - Best practices for developing and debugging plugins
 - Examples of functional plugins
 
-## 🚀 Getting Started
-
-To get started writing your own plugin:
-
-1. Read the `Installation.md` and `DevelopmentEnvironment.md` to set up your tools.
-2. Check out `Hooks.md` and `Interfaces.md` to understand what parts of the system you can access.
-3. Explore the `Examples` folder to see ready-to-use plugins.
-
-## 📂 Structure
-
-- `Home.md` — Introduction to plugins
-- `Installation.md` — How to install and prepare ComicRack CE
-- `DevelopmentEnvironment.md` — Setting up Visual Studio or other editors
-- `Interfaces/` — All plugin-accessible interfaces
-- `Hooks/` — Hooks and the variables they inject
-- `Classes/` — Core data structures and their members
-- `Examples/` — Plugin samples
-- `Glossary.md` — Terms and concepts
-  # Hooks and the variables they inject|-- Classes/                  # Core data structures and their members|-- Examples/                 # Plugin samples|-- Glossary.md               # Terms and concepts\`\`\`
 
 ## 🤝 Contributing
 
